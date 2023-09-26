@@ -15,4 +15,4 @@
 
 ### GitHub Pages
 
-* https://ruslanjafarov.github.io/watersupply
+* https://iruslanjafarov.github.io/watersupply
